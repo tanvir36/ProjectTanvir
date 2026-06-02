@@ -15,7 +15,10 @@ public class ProjectTanvir {
         Scanner input = new Scanner(System.in);
         Calculator calc = new Calculator();
 
-        System.out.println("=== Simple Calculator ===");
+//        System.out.println("=== Simple Calculator ===");
+        System.out.println("==================================");
+        System.out.println("      WELCOME TO CALCULATOR       ");
+        System.out.println("==================================");
 
         System.out.print("Enter first number: ");
         double num1 = input.nextDouble();
